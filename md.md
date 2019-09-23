@@ -77,20 +77,20 @@ line 2
 ### 强调
 使用两个星号或者两个下划线来加粗
 
-   ** bold **
-    -- bold --
+    **bold**
+    __bold__
 
 
-** bold **
--- bold --
+**bold**
+__bold__
 
 使用一个新号和一个下划线来倾斜。
 
-    * italic *
-    - italic -
+    *italic*
+    _italic_
 
-* italic *
-- italic -
+*italic*
+_italic_
 
 markdown本身不支持删除标签，请使用html
 
@@ -135,6 +135,7 @@ This is a <del>black</del> black and white cat.
 
 ### 水平线
 以下代码都能产生水平线
+<pre>
 
    ------
    
@@ -143,7 +144,8 @@ This is a <del>black</del> black and white cat.
    * * *
    
    *****
-   
+</pre>
+
 ------
 
 ### 插入图片
