@@ -1,7 +1,8 @@
 ## Markdown 基础语法
 Markdown是一种纯文本的轻量级标记语言，可用于表达富文本信息  
-你现在看到的这份文档就是用markdown来书写的 查看代码  
-我们提供在线markdown编辑器  
+你现在看到的这份文档就是用markdown来书写的  
+![查看代码](https://raw.githubusercontent.com/sgsq/train/master/md.md)
+我们提供![在线markdown编辑器](./tool/editor.html)
 你可以下载markdownpad2用于编写markdown文件。
 
 ### 标题
@@ -65,13 +66,13 @@ line 2
 
 可以试着多层引用
 
-    >lorem
-    >>ipsum
-    >>>dolor
+    > lorem
+    >> ipsum
+    >>> dolor
 
->lorem
->>ipsum
->>>dolor
+> lorem
+>> ipsum
+>>> dolor
 
 ### 强调
 使用两个星号或者两个下划线来加粗
