@@ -157,7 +157,7 @@ This is a <del>black</del> black and white cat.
 ![logo](https://i.loli.net/2019/09/24/fwhMnmrXDz9pHNG.jpg)
 
 ### 链接
-使用 '[text](url title)' 创建链接
+使用 \[text\]\(url title\) 创建链接
 
     Click [here](# "more") for more information.
      
