@@ -94,7 +94,7 @@ _italic_
 
 markdown本身不支持删除标签，请使用html
 
-<pre>This is a <del>black</del> black and white cat.</pre>
+    This is a <del>black</del> black and white cat.
     
 This is a <del>black</del> black and white cat.
 
